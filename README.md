@@ -1,6 +1,6 @@
 # Easily Minecraft Manager (EMCM)
 
-![EMCM Banner](https://via.placeholder.com/800x200/7289DA/FFFFFF?text=Easily+Minecraft+Manager)  
+![EMCM](https://socialify.git.ci/Easily-miku/EMCM/image?font=Raleway&forks=1&language=1&logo=https%3A%2F%2Fimg.picui.cn%2Ffree%2F2025%2F07%2F04%2F6867c3c7f243f.png&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Auto)
 **简化 Minecraft 服务器管理 - 让开服变得轻松愉快**
 
 [![GitHub release](https://img.shields.io/github/release/Easily-Miku/EMCM.svg)](https://github.com/Easily-Miku/EMCM/releases)
